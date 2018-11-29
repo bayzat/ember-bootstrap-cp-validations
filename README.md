@@ -19,4 +19,4 @@ Just install this addon and use ember-bootstrap as intended. This addon adds sup
 
 ## Requirements
 
-This addon needs ember-bootstrap starting at 1.0.0. For warning messages you will need at least ember-cp-validations 3.0.
+For warning messages you will need at least ember-cp-validations 3.0.
