@@ -1,6 +1,6 @@
 import { not, notEmpty, and, readOnly } from '@ember/object/computed';
 import { defineProperty } from '@ember/object';
-import BsFormElement from 'ember-bootstrap/components/bs-form/element';
+import BsFormElement from 'ember-bootstrap/components/bs-form-element';
 
 export default BsFormElement.extend({
   _attrValidations: null,

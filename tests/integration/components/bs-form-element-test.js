@@ -15,7 +15,7 @@ const Model = EmberObject.extend(Validations, {
   test: null
 });
 
-module('Integration | Component | bs form element', function(hooks) {
+module('Integration | Component | bs form-element', function(hooks) {
   setupRenderingTest(hooks);
 
   test('valid validation is supported as expected', async function(assert) {
@@ -33,8 +33,8 @@ module('Integration | Component | bs form element', function(hooks) {
     };
 
     await render(hbs`
-      {{#bs-form model=model onSubmit=(action submitAction) onInvalid=(action invalidAction) as |form|}}
-        {{form.element label="test" property="test"}}
+      {{#bs-form model=model action="submitAction" invalid="invalidAction"}}
+        {{bs-form-element label="test" property="test"}}
       {{/bs-form}}
     `);
 
@@ -56,8 +56,8 @@ module('Integration | Component | bs form element', function(hooks) {
     };
 
     await render(hbs`
-      {{#bs-form model=model onSubmit=(action submitAction) onInvalid=(action invalidAction) as |form|}}
-        {{form.element label="test" property="test"}}
+      {{#bs-form model=model action="submitAction" invalid="invalidAction"}}
+        {{bs-form-element label="test" property="test"}}
       {{/bs-form}}
     `);
 
