@@ -32,7 +32,7 @@
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "broccoli-asset-rev": "^2.4.5",
-    "ember-bootstrap": "github:synaptiko/ember-bootstrap#v0.11.x-bayzat",
+    "ember-bootstrap": "github:bayzat/ember-bootstrap#v0.11.x-bayzat",
     "ember-cli": "~3.0.2",
     "ember-cli-dependency-checker": "^2.0.0",
     "ember-cli-eslint": "^4.2.1",
