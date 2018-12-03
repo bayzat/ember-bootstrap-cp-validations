@@ -2039,9 +2039,9 @@ ember-assign-polyfill@~2.4.0:
     ember-cli-babel "^6.6.0"
     ember-cli-version-checker "^2.0.0"
 
-"ember-bootstrap@github:bayzat/ember-bootstrap#v0.11.x-bayzat":
-  version "0.11.9"
-  resolved "https://codeload.github.com/bayzat/ember-bootstrap/tar.gz/30002c5e717bd4813f80e8d3ec0b658f0211e394"
+"ember-bootstrap@github:bayzat/ember-bootstrap#v0.11.10-bayzat":
+  version "0.11.10-bayzat"
+  resolved "https://codeload.github.com/bayzat/ember-bootstrap/tar.gz/8b67671e752e4a2647a76e899e3efdeada45202b"
   dependencies:
     broccoli-funnel "^1.0.1"
     broccoli-merge-trees "^1.1.1"
@@ -2332,9 +2332,9 @@ ember-cli@~3.0.2:
     watch-detector "^0.1.0"
     yam "0.0.22"
 
-"ember-cp-validations@github:bayzat/ember-cp-validations#v3.5.x-bayzat":
-  version "3.5.4"
-  resolved "https://codeload.github.com/bayzat/ember-cp-validations/tar.gz/f4afa5727dcce6b2cda792573f6b3b701d47e641"
+"ember-cp-validations@github:bayzat/ember-cp-validations#v3.5.5-bayzat":
+  version "3.5.5-bayzat"
+  resolved "https://codeload.github.com/bayzat/ember-cp-validations/tar.gz/2a28b4bf1f0d89bbfc03bdf4643f7f140a69e586"
   dependencies:
     ember-cli-babel "^6.6.0"
     ember-cli-version-checker "^2.0.0"
