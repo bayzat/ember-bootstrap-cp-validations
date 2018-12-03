@@ -1,6 +1,6 @@
 {
   "name": "ember-bootstrap-cp-validations",
-  "version": "1.0.0",
+  "version": "1.0.0-bayzat.1",
   "description": "ember-cp-validations support for ember-bootstrap",
   "keywords": [
     "ember-addon",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "broccoli-asset-rev": "^2.4.5",
-    "ember-bootstrap": "github:bayzat/ember-bootstrap#v0.11.x-bayzat",
+    "ember-bootstrap": "github:bayzat/ember-bootstrap#v0.11.3-bayzat.7",
     "ember-cli": "~3.0.2",
     "ember-cli-dependency-checker": "^2.0.0",
     "ember-cli-eslint": "^4.2.1",
@@ -43,7 +43,7 @@
     "ember-cli-shims": "^1.2.0",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^2.0.0",
-    "ember-cp-validations": "github:bayzat/ember-cp-validations#v3.5.x-bayzat",
+    "ember-cp-validations": "github:bayzat/ember-cp-validations#v3.5.4-bayzat.1",
     "ember-disable-prototype-extensions": "^1.1.2",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
